@@ -11,3 +11,9 @@ Implementation of a multi-threaded MapReduce. MapReduce is a parallel processing
 ## License
 
 keebtype is a [GNU-licensed](https://www.gnu.org/licenses/gpl-3.0.en.html) software by [Ricky Nguyen](https://github.com/nguyricky)
+
+## Collaborators
+
+<a href="https://github.com/nguyricky/MapReduce/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nguyricky/MapReduce" />
+</a>
