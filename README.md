@@ -7,3 +7,7 @@ Implementation of a multi-threaded MapReduce. MapReduce is a parallel processing
 ## Deployment
 
 ```rustc -o main main.rs```
+
+## License
+
+MapReduce is a [Apache Licensed](https://github.com/nguyricky/MapReduce?tab=Apache-2.0-1-ov-file) software by [Ricky Nguyen](https://github.com/nguyricky)
